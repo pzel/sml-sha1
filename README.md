@@ -11,7 +11,6 @@ $(SML_LIB)/basis/basis.mlb
 $(SMLPKG)/github.com/pzel/sml-sha1/sha1.mlb
 ```
 
-
 ## Signatures
 
 ```

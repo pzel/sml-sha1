@@ -1,7 +1,7 @@
 $(SML_LIB)/basis/basis.mlb
 $(SMLPKG)/github.com/pzel/bytestring/bytestring.mlb
 $(SMLPKG)/github.com/pzel/packword64/packword64.mlb
+$(SMLPKG)/github.com/pzel/convert-word/convert-word.mlb
 $(SMLPKG)/github.com/pzel/stream/stream.mlb
 cryptohash.sig
-convert-word.sml
 sha1.sml
